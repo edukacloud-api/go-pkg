@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/fahribaharudin/edukacloud-toolkit/session"
+	"github.com/edukacloud-api/go-pkg/session"
 	"github.com/labstack/echo/v4"
 	"net/http"
 )
